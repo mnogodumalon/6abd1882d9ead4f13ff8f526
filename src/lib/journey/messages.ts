@@ -31,6 +31,8 @@ export type MessageFieldKey<E extends EntityKey> = E extends keyof MessageFields
 
 export const REQUIRED_MESSAGES: { [E in EntityKey]?: Partial<Record<MessageFieldKey<E>, string>> } = {
   // <custom:messages>
+  keyboards: { bezeichnung: "Bitte eine Bezeichnung eingeben." },
+  hersteller: { name: "Bitte den Herstellernamen eingeben." },
   // </custom:messages>
 };
 
