@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "en": {
+      "Defekt": "Defective",
+      "Defekte Keyboards": "Defective Keyboards",
+      "Erstes Keyboard anlegen": "Add First Keyboard",
+      "Gekauft": "Purchased",
+      "Hersteller": "Manufacturer",
+      "Kein Keyboard defekt — alles in Ordnung!": "No keyboard defective — all good!",
+      "Keyboard hinzufügen": "Add Keyboard",
+      "Keyboards gesamt": "Total Keyboards",
+      "Keyboards nach Zustand": "Keyboards by Condition",
+      "Noch kein Keyboard erfasst. Fang jetzt an, deine Sammlung aufzubauen!": "No keyboard added yet. Start building your collection now!",
+      "Noch keine Keyboards erfasst — leg deine erste Tastatur an!": "No keyboards added yet — create your first keyboard!",
+      "Typ-Filter": "Type Filter",
+      "Unbenannt": "Unnamed",
+      "Zuletzt hinzugefügt: {0}.": "Last added: {0}.",
+      "Zurücksetzen": "Reset",
+      "{0} Keyboards in {1} Marken.": "{0} keyboards across {1} brands.",
+      "{0} — Typ auf {1} geändert": "{0} — Type changed to {1}"
+    }
+  },
+  "v": 1
+}

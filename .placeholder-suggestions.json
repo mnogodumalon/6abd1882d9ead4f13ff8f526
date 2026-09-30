@@ -1,0 +1,23 @@
+{
+  "HerstellerDialog.tsx": {
+    "name": "z. B. Keychron",
+    "land": "z. B. China",
+    "website": "z. B. https://keychron.com",
+    "beschreibung": "Besonderheiten, Fokus, Besonderheiten..."
+  },
+  "KeyboardsDialog.tsx": {
+    "bezeichnung": "z. B. Keychron K2",
+    "hersteller": "Hersteller wählen",
+    "typ": "z. B. Mechanisch",
+    "schaltertyp": "z. B. Brown, Linear",
+    "layout": "z. B. QWERTZ",
+    "tastenanzahl": "z. B. 84",
+    "verbindungsart": "z. B. Bluetooth, USB",
+    "farbe": "z. B. Schwarz",
+    "zustand": "z. B. Sehr gut",
+    "kaufdatum": "Wann erworben?",
+    "kaufpreis": "z. B. 89,99",
+    "seriennummer": "z. B. SN-2024-001",
+    "notizen": "Besonderheiten, Wartung, Lagerort..."
+  }
+}

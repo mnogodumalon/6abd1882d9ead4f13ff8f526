@@ -1,0 +1,16 @@
+{
+  "entities": {
+    "Hersteller": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten-Entity (Name, Land, Website, Beschreibung). Keine Number-Felder, keine Applookups, keine Datumspaare — nichts berechenbar."
+    },
+    "Keyboards": {
+      "placeholders_set": 13,
+      "defaults_keys": ["kaufdatum"],
+      "computed_keys": [],
+      "reason": "Keyboard-Inventar mit tastenanzahl (Eigenschaft) und kaufpreis (Erfassungspreis). Applookup auf Hersteller hat keine Preis-Target — kein Multipliziermodell, keine Berechnung sinnvoll."
+    }
+  }
+}
